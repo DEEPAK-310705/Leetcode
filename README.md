@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEEPAK-310705/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/DEEPAK-310705/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPAK-310705/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/DEEPAK-310705/Leetcode/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
