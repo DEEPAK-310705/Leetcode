@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPAK-310705/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/DEEPAK-310705/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
+## String
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
