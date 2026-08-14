@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEEPAK-310705/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/DEEPAK-310705/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPAK-310705/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
