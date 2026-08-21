@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [1470-shuffle-the-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
