@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEEPAK-310705/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/DEEPAK-310705/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DEEPAK-310705/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/DEEPAK-310705/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
