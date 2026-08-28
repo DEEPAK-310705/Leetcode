@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0020-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DEEPAK-310705/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0022-generate-parentheses) |
 ## Prefix Sum
 |  |
