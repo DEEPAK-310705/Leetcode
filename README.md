@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DEEPAK-310705/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DEEPAK-310705/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
 ## Recursion
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DEEPAK-310705/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/DEEPAK-310705/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0344-reverse-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0136-single-number) |
 ## Game Theory
 |  |
