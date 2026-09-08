@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/DEEPAK-310705/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/DEEPAK-310705/Leetcode/tree/master/0704-binary-search) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -91,17 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/DEEPAK-310705/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 ## Greedy
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0321-create-maximum-number) |
+| [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DEEPAK-310705/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 ## String
 |  |
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
