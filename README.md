@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DEEPAK-310705/Leetcode/tree/master/0704-binary-search) |
 | [1383-maximum-performance-of-a-team](https://github.com/DEEPAK-310705/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1470-shuffle-the-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DEEPAK-310705/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/DEEPAK-310705/Leetcode/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/DEEPAK-310705/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DEEPAK-310705/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
