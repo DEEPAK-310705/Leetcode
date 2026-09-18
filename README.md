@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/DEEPAK-310705/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/DEEPAK-310705/Leetcode/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/DEEPAK-310705/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/DEEPAK-310705/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/DEEPAK-310705/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/DEEPAK-310705/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/DEEPAK-310705/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DEEPAK-310705/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/DEEPAK-310705/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/DEEPAK-310705/Leetcode/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/DEEPAK-310705/Leetcode/tree/master/0133-clone-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/DEEPAK-310705/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
