@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/DEEPAK-310705/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DEEPAK-310705/Leetcode/tree/master/0621-task-scheduler) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/DEEPAK-310705/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/DEEPAK-310705/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/DEEPAK-310705/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
 ## Simulation
