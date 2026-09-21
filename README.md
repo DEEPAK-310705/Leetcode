@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DEEPAK-310705/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0202-happy-number) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/DEEPAK-310705/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/DEEPAK-310705/Leetcode/tree/master/0133-clone-graph) |
+| [0202-happy-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/DEEPAK-310705/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DEEPAK-310705/Leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEEPAK-310705/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DEEPAK-310705/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DEEPAK-310705/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0344-reverse-string) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DEEPAK-310705/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
