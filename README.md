@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/0682-baseball-game) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DEEPAK-310705/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/DEEPAK-310705/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/DEEPAK-310705/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAK-310705/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
