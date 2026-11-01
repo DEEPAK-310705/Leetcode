@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DEEPAK-310705/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEEPAK-310705/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DEEPAK-310705/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/DEEPAK-310705/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/DEEPAK-310705/Leetcode/tree/master/1927-sum-game) |
 ## Recursion
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DEEPAK-310705/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DEEPAK-310705/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/DEEPAK-310705/Leetcode/tree/master/0321-create-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DEEPAK-310705/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/DEEPAK-310705/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAK-310705/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/DEEPAK-310705/Leetcode/tree/master/0506-relative-ranks) |
